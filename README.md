@@ -14,4 +14,6 @@ Files include README.md and .gitignore as well as the bikeshare project folder w
 
 ### Credits
 During this project I consulted https://git-scm.com/ and
-Github for Dummies by Sarah Guthals, Phd and Phil Haack &copy 2019
+Github for Dummies by Sarah Guthals, Phd and Phil Haack :&copy: 2019
+
+Gone camping! :tent: Be back soon.
