@@ -1,16 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Following Udacity Project Git Commands Google Drive file.
 
 ### Project Title
-Replace the Project Title
+The new branch is called 'Documentation'
 
 ### Description
-Describe what your project is about and what it does
+This project demonstrates my ability to use version control on local machine and remotely (Github).
 
 ### Files used
-Include the files used
+Files include README.md and .gitignore as well as the bikeshare project folder which is ignored.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+During this project I consulted https://git-scm.com/ and
+Github for Dummies by Sarah Guthals, Phd and Phil Haack &copy 2019
