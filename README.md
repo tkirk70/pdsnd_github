@@ -17,3 +17,5 @@ During this project I consulted https://git-scm.com/ and
 Github for Dummies by Sarah Guthals, Phd and Phil Haack :&copy: 2019
 
 Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
